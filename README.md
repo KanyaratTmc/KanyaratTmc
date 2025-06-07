@@ -91,12 +91,12 @@
 ###
 
 <div align="center">
-  <img height="200" src="//i.imgflip.com/7sqocl.gif"  />
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjR0Y3dvbHF4dHV2Ymh2bzIxZnYza2d3ZGRiZjRmOGRoN3B0bnYxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QyJ0We4GHpjBa7PvKL/giphy.gif"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="kanyarattmc@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>

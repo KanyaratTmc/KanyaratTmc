@@ -111,7 +111,7 @@
 ###
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/KanyaratTmc/count.svg?"  />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=KanyaratTmc" />
 </p>
 
 ###

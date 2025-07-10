@@ -110,9 +110,9 @@
 
 ###
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=KanyaratTmc" />
-</p>
+<div align="center">
+  <img alt="Hits" src="https://hits.sh/github.com/KanyaratTmc.svg?style=flat-square" />
+</div>
 
 ###
 

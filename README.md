@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">👀 I’m interested in Full stack dev :)<br> 🌱 I’m currently learning Next.js 💞️<br> 😄 Pronouns: She/Her<br> ⚡ Fun fact: I'm CS student to understand all CS memes XD</h6>
+<h6 align="left">👀 I’m interested in Full stack dev :)<br> 🌱 I’m currently learning Laravel, Next.js 💞️<br> 😄 Pronouns: She/Her<br> ⚡ Fun fact: I'm CS student to understand all CS memes XD</h6>
 
 ###
 

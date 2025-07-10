@@ -110,9 +110,9 @@
 
 ###
 
-<div align="center">
+<p align="center">
   <img src="https://profile-counter.glitch.me/KanyaratTmc/count.svg?"  />
-</div>
+</p>
 
 ###
 

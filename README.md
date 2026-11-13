@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">👋Hi ! My name is Kanyarat Thammachot and I'm a 4th year CS student, from Uttaradit, Thailand 💞️</h4>
+<h4 align="left">👋Hi ! My name is Kanyarat Thammachot and I'm a fresh graduated CS student, from Uttaradit, Thailand 💞️</h4>
 
 ###
 
